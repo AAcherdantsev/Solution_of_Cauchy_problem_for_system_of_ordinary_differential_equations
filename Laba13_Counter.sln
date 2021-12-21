@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29905.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Laba13_Counter", "Laba13_Counter\Laba13_Counter.pyproj", "{B08D3591-5558-403B-8BF1-4F3C2B0F48B3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B08D3591-5558-403B-8BF1-4F3C2B0F48B3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B08D3591-5558-403B-8BF1-4F3C2B0F48B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {027D0AD2-B984-4FA2-8418-A6BF7BD5D33B}
+	EndGlobalSection
+EndGlobal
